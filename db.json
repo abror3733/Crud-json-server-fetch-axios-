@@ -1,0 +1,60 @@
+
+{
+  "cars":[
+    {
+      "id":1,
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJH9LKiSww0UbaOBLaYZR2CDrRVN3oRYF9NccpZ6nLHQ&s",
+      "name":"Tesla",
+      "color":"white",
+      "price":"45000$"
+    },
+    {
+      "id":2,
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPb8iHhKLHRm5x5cmUjr15WOARz_LFNDjUl9-XVVJZsA&s",
+      "name":"BYD",
+      "color":"Black",
+      "price":"35000$"
+    },
+    {
+      "id":3,
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXTL9JcoRvBZgqZzz9-IJ3azArsEIjOPx-_TEQ07n1vA&s",
+      "name":"Cadilac",
+      "color":"Black",
+      "price":"120000$"
+    },
+    {
+      "id":4,
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVI_MWTFIQ6PCqaYK-B2BUCNgWjLXHGBW8M4djYeFUIA&s",
+      "name":"Range Rover",
+      "color":"white",
+      "price":"75000$"
+    },
+    {
+      "id":5,
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4WM0_y74t12CZg1ko4eRAtAgr4HjAcxK0RhzCMVhOXQ&s",
+      "name":"BMW",
+      "color":"Black",
+      "price":"70000$"
+    },{
+      "id":6,
+      "img":"https://cdn.jdpower.com/JDPA_2021%20Mercedes-Benz%20S-Class%20Black%20At%20Speed.jpg",
+      "name":"Mercedes-Benz",
+      "color":"Black",
+      "price":"85000$"
+    },
+    {
+      "id":7,
+      "img":"https://cdn.motor1.com/images/mgl/VzMY1R/s1/2024-kia-sorento.jpg",
+      "name":"Kia Sorento",
+      "color":"Gray",
+      "price":"45000$"
+    },
+    {
+      "id":8,
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ySIKiW1oQDwPXmv2LU5-hLqoy4_sSuZS3A-Ip3fWjA&s",
+      "name":"Li 9",
+      "color":"Black",
+      "price":"72000$"
+    }
+  ]
+}
